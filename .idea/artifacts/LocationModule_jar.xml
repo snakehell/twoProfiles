@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LocationModule:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LocationModule_jar</output-path>
+    <root id="archive" name="LocationModule.jar">
+      <element id="module-output" name="LocationModule" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/LocationModule/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
